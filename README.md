@@ -15,7 +15,7 @@ accomplishments.
 - **MyThesis** - Web Programming _(currently private)_ <br>
 - **QueryHelper** - Programming in JAVA <br>
 - **XamDiv** - Operating Systems <br>
-- **Mini ARM processor** - Computer Architecture <br>
+- **Mini ARM CPU** - Computer Architecture <br>
 
 ## List of projects
 | Semester |             Course              |             Mentor             |
