@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nature & Hiking</title>
+        
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" href="styles/base_style.css">
+        <link rel="stylesheet" href="styles/contact_style.css">
+        <link rel="shortcut icon" type="image/png" href="media/favicon.png">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="styles/font-awesome/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        
+        <div class="c-header">
+            <nav>
+                <a href="index.html"><img src="media/logo.png" id="logo"></a>
+                <div class="nav-list" id="navLinks">
+                    <i class="fa fa-times" onclick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="about.html">ABOUT</a></li>
+                        <li><a href="contact.html">CONTACT</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" onclick="showMenu()"></i>
+            </nav>
+            <h1>CONTACT US</h1>
+        </div>
+
+        <section class="location">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2965.63197844655!2d20.958541015444553!3d41.98671067921368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1353fa781c988b49%3A0x72066ce3777a2e2c!2sSouth%20East%20European%20University!5e0!3m2!1sen!2smk!4v1653856893164!5m2!1sen!2smk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
+
+        <section class="contact-us">
+            <div class="row">
+                <div class="contact-col">
+                    <div>
+                        <i class="fa fa-home"></i>
+                        <span>
+                        <h5>Ilindenska, n.335</h5>
+                        <p>North Macedonia, Tetovo, MK</p>
+                        </span>
+                    </div>
+                    <div>
+                        <i class="fa fa-phone"></i>
+                        <span>
+                        <h5>+389 44 356 000</h5>
+                        <p>Monday to friday, 8AM to 4PM</p>
+                        </span>
+                    </div>
+                    <div>
+                        <i class="fa fa-envelope"></i>
+                        <span>
+                        <h5>rectorate@seeu.edu.mk</h5>
+                        <p>Email us for any questions or info</p>
+                        </span>
+                    </div>
+                </div>
+
+                <div class="contact-col">
+                    <form action="">
+                        <input type="text" placeholder="Enter your name" required>
+                        <input type="email" placeholder="Enter your email address" required>
+                        <textarea rows="8" placeholder="Enter your message" required></textarea>
+                        <button type="submit">Send Message</button>    
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <div class="icons">
+                <a href="https://www.facebook.com/ron.ismaili" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a href="https://twitter.com/RonIsmaili" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a href="https://www.instagram.com/ron_ismaili" target="_blank"><i class="fa fa-instagram"></i></a>
+            </div>
+            <div class="copyright" align="center">
+                <script>
+                  document.write('&copy;' );
+                  document.write(' 2022 - ');
+                  document.write(' Ron Ismaili - All Rights Reserved.');
+                </script>
+              </div>
+        </footer>
+
+        <script src="scripts/menu.js"></script>
+    
+    </body>
+</html>
