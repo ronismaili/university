@@ -11,6 +11,7 @@ documentation, source code, and any additional materials to provide insights int
 accomplishments.
 
 ## Noteworthy projects
+
 - **MyThesis** - Web Programming _(currently private)_ <br>
 - **QueryHelper** - Programming in JAVA <br>
 - **XamDiv** - Operating Systems <br>
