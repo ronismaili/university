@@ -2,6 +2,7 @@
 
 **University:** South East European University, Tetovo - North Macedonia <br>
 **Course:** Internet Technologies <br>
+**Semester:** 2nd semester <br>
 **Mentor:** Prof. Nuhi Besimi <br>
 **Student:** Ron Ismaili <br>
 
