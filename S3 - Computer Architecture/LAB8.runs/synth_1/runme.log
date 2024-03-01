@@ -1,0 +1,24 @@
+
+*** Running vivado
+    with args -log CPU.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source CPU.tcl
+
+
+
+****** Vivado v2021.2 (64-bit)
+  **** SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+  **** IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+    ** Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+source CPU.tcl -notrace
+create_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 1227.414 ; gain = 0.000
+Command: synth_design -top CPU -part xc7vx485tffg1157-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7vx485t'
+WARNING: [Common 17-348] Failed to get the license for feature 'Synthesis' and/or device 'xc7vx485t'. Explanation: The license feature Synthesis could not be found.
+Resolution: Check the status of your licenses in the Vivado License Manager. For debug help search Xilinx Support for "Licensing FAQ". 
+0 Infos, 1 Warnings, 0 Critical Warnings and 1 Errors encountered.
+synth_design failed
+ERROR: [Common 17-345] A valid license was not found for feature 'Synthesis' and/or device 'xc7vx485t'. Please run the Vivado License Manager for assistance in determining
+which features and devices are licensed for your system.
+Resolution: Check the status of your licenses in the Vivado License Manager. For debug help search Xilinx Support for "Licensing FAQ". If you are using a license server, verify that the license server is up and running a version of the xilinx daemon that is compatible with the version of Xilinx software that you are using. Note: Vivado 2021.1 and later versions require upgrading your license server tools to the Flex 11.17.2.0 versions. Please confirm with your license admin that the correct version of the license server tools are installed.
+INFO: [Common 17-206] Exiting Vivado at Sun Dec 18 02:03:12 2022...
