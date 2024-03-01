@@ -3,12 +3,8 @@
 Welcome to my university projects repository! Here, you'll find a collection of my public projects completed during my
 undergraduate studies.
 
-## Repository Contents
-
 This repository serves as a showcase of my academic journey, featuring a variety of projects spanning different subjects
 and disciplines.
-
-## Navigation
 
 Feel free to explore the projects organized within this repository. Each project is accompanied by relevant
 documentation, source code, and any additional materials to provide insights into my learning process and
