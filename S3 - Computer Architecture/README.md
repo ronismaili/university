@@ -1,4 +1,4 @@
-# Internet Technologies
+# Computer Architecture
 
 **University:** Universidad Loyola, Seville - Spain <br>
 **Course:** Computer Architecture <br>
