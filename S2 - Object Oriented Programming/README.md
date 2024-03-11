@@ -1,4 +1,4 @@
-# Internet Technologies
+# Object Oriented Programming
 
 **University:** South East European University, Tetovo - North Macedonia <br>
 **Course:** Object Oriented Programming <br>
