@@ -18,17 +18,19 @@ accomplishments.
 - **Mini ARM CPU** - Computer Architecture <br>
 
 ## List of projects
-| Semester |             Course              |             Mentor             |
-|:--------:|:-------------------------------:|:------------------------------:|
-|    2     |      Internet Technologies      |       Prof. Nuhi Besimi        |
-|    2     |   Object Oriented Programming   |     Prof. Majlinda Fetaji      |
-|    2     |    English Language Level 5     |   Prof. Hajrulla Hajrullaji    |
-|    3     |      Computer Architecture      |   Prof. James Brian Romaine    |
-|    3     |     Data & Image Analytics      |     Prof. Vito Mario Fico      |
-|    3     | Motion Capture and 3D Animation | Prof. Salvador Salmerón Medina |
-|    4     |        Operating Systems        |       Prof. Visar Shehu        |
-|    4     |      Digital Logic Design       |      Prof. Mentor Hamiti       |
-|    4     |            Databases            |      Prof. Jaumin Ajdari       |
-|    5     |       Programming in JAVA       |       Prof. Nuhi Besimi        |
-|    5     |      Software Engineering       |       Prof. Nuhi Besimi        |
-|    5     |   Web Programming _(private)_   |     Prof. Florije Ismaili      |
+
+| Semester |             Course              |                Mentor                 |
+|:--------:|:-------------------------------:|:-------------------------------------:|
+|    2     |      Internet Technologies      |           Prof. Nuhi Besimi           |
+|    2     |   Object Oriented Programming   |         Prof. Majlinda Fetaji         |
+|    2     |    English Language Level 5     |       Prof. Hajrulla Hajrullaji       |
+|    3     |      Computer Architecture      |       Prof. James Brian Romaine       |
+|    3     |    Data and Image Analytics     |         Prof. Vito Mario Fico         |
+|    3     | Motion Capture and 3D Animation |    Prof. Salvador Salmeron Medina     |
+|    3     |        Computer Networks        | Prof. Francisco Javier Dominguez Ruiz |
+|    4     |        Operating Systems        |           Prof. Visar Shehu           |
+|    4     |      Digital Logic Design       |          Prof. Mentor Hamiti          |
+|    4     |            Databases            |          Prof. Jaumin Ajdari          |
+|    5     |       Programming in JAVA       |           Prof. Nuhi Besimi           |
+|    5     |      Software Engineering       |           Prof. Nuhi Besimi           |
+|    5     |   Web Programming _(private)_   |         Prof. Florije Ismaili         |
