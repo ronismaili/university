@@ -1,21 +1,23 @@
 # University Projects
 
-Welcome to my public university projects repository! Here, you'll find a collection of my public projects completed during my
-undergraduate studies.
+Welcome to my public university projects repository! Here, you'll find a collection of my public projects
+undertaken during my undergraduate studies.
 
-This repository serves both as an archive, and as a showcase of my academic journey, featuring a variety of projects spanning different subjects
-and disciplines.
+This repository functions as both an archive and a showcase of my academic journey, highlighting a diverse array of
+projects across various subjects and disciplines.
 
-Feel free to explore the projects organized within this repository. Each project is accompanied by relevant
-documentation, source code, and any additional materials to provide insights into my learning process and
-accomplishments.
+Every project is supplemented with relevant documentation, source code, and any supplementary materials to offer
+insights into my learning journey and achievements.
+
+Please feel free to utilize my projects as you deem fit, and if you opt to do so, please remember to attribute credit
+accordingly 😃.
 
 ## Noteworthy projects
 
-- **MyThesis** - Web Programming _(currently private)_ <br>
-- **QueryHelper** - Programming in JAVA <br>
-- **XamDiv** - Operating Systems <br>
-- **Mini ARM CPU** - Computer Architecture <br>
+- **MyThesis** - Web Programming _(currently private)_
+- _[**QueryHelper**](https://github.com/ronismaili/university/tree/main/S5%20-%20Programming%20in%20JAVA)_ - Programming in JAVA
+- _[**XamDiv**](https://github.com/ronismaili/university/tree/main/S4%20-%20Operating%20Systems)_ - Operating Systems
+- _[**Mini ARM CPU**](https://github.com/ronismaili/university/tree/main/S3%20-%20Computer%20Architecture)_ - Computer Architecture
 
 ## List of projects
 
