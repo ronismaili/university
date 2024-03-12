@@ -3,7 +3,7 @@
 **University:** South East European University, Tetovo - North Macedonia <br>
 **Course:** Digital Logic Design <br>
 **Semester:** 4th semester <br>
-**Mentor:** Prof. Visar Shehu <br>
+**Mentor:** Prof. Mentor Hamiti <br>
 **Student:** Ron Ismaili <br>
 
 ## Binary counter 0 to 7 and 7 to 0
